@@ -1,0 +1,6 @@
+mentor-carreiras-ia/
+│
+├── main.py
+├── mentor_ia.py
+├── gerenciador_tokens.py
+└── README.md
